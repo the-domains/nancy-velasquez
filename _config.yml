@@ -1,0 +1,28 @@
+name: Nancy Velasquez
+favicon: null
+layout_spectrum: 0.22237546206451952
+typography_spectrum: 0.4839077815413475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8138317330740392
+  lightness: 0.4432162130251527
+  saturation: 0.2422678880393505
+  rhythmicContrast: 0.13814576831646264
+purpose: []
