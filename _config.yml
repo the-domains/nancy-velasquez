@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.488806
   brandStrength: 0.8138317330740392
-  lightness: 0.2285448
+  lightness: 0.4272388
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  rhythmicContrast: 0.2961754
+    - '#D5D5D5'
+    - '#01008A'
+    - '#130F03'
+    - '#455248'
+    - '#88A972'
+  rhythmicContrast: 0.4421642
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Nancy Velasquez
+favicon: null
 opengraph:
   image: null
   type: null
