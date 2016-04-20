@@ -1,29 +1,41 @@
-name: Nancy Velasquez
-favicon: null
-layout_spectrum: 0.22237546206451952
-typography_spectrum: 0.4839077815413475
 title: "Futurist Human Totem: Tell me something I don't know"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.488806
+  brandStrength: 0.8138317330740392
+  lightness: 0.2285448
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8138317330740392
-  lightness: 0.4432162130251527
-  saturation: 0.2422678880393505
-  rhythmicContrast: 0.13814576831646264
-purpose: []
+  rhythmicContrast: 0.2961754
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Nancy Velasquez
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7322761
+layout_spectrum: 0.389459
