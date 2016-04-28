@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.488806
+  saturation: 0.7036341
   brandStrength: 0.8138317330740392
-  lightness: 0.4272388
+  lightness: 0.3997494
   brandColors:
     - '#D5D5D5'
     - '#01008A'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Nancy Velasquez
 favicon: null
+name: Nancy Velasquez
 opengraph:
   image: null
   type: null
